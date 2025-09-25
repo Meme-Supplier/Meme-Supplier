@@ -1,11 +1,10 @@
-# 👋 Hey there, I’m Meme!  
 
 ## 🧑‍💻 About Me  
 - 🔭 I’m currently working on: **cmdcreate**
 - 🌱 I’m learning: **Rust, Python, Linux customization**
 - 💡 Interests: **Programming, music, playing my guitar**
 - 💬 Ask me about: **Arch Linux, Rust, Python**
-- ⚡ Fun fact: **I use Arch btw 😏**
+- ⚡ Fun fact: **I use Arch btw**
 
 ---
 
