@@ -12,5 +12,5 @@
 | Area | Tools |
 |-------|-------|
 | **Languages** | Rust 🦀 · Python 🐍 · Bash 🖥️ |
-| **Tools** | VScodium · Github · Hyprland |
+| **Tools** | VSCodium · Github · Hyprland |
 | **OS** | Arch Linux 🐧 |
