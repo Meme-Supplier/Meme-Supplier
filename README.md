@@ -1,9 +1,9 @@
 
 ## 🧑‍💻 About Me  
 - 🔭 I’m currently working on: **cmdcreate**
-- 🌱 I’m learning: **Rust, Python, Linux customization**
-- 💡 Interests: **Programming, music, playing my guitar**
-- 💬 Ask me about: **Arch Linux, Rust, Python**
+- 🌱 I’m learning: **Rust, Python, Linux**
+- 💡 Interests: **Programming, music, playing the guitar**
+- 💬 Ask me about: **Linux, Rust, Python**
 - ⚡ Fun fact: **I use Arch btw**
 
 ---
